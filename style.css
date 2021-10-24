@@ -373,36 +373,24 @@ span {
     .col-lg-4.col-sm-4.portfolio-item.tf {
         width: 100%;
     }
-    
-    a.box-hover.mt-30 {}
- }
- 
- @media (min-width: 320px) and (max-width: 375px) {
-    .bp {
-        padding: 20px 0;
+    .about_details { 
+        padding: 20px 20px;
+         
     }
-    .myimage.box_shadow {
-        margin-bottom: 50px;
+
+    .about_details.box_shadow {
+        padding: 15px;
     }
     
-    .mydetails.box_shadow h2 {
-        font-size: 20px;
-    }
-    
-    .mydetails.box_shadow {
-        padding: 20px;
-        margin: 20px 0;
-    }
-    
-    .social_icon.mysocl ul li {width: 15%;margin-bottom: 20px;}
-    
-    .myskilltitle {
-        margin-top: 30px;
-    }
-    
-    .col-lg-4.col-sm-4.portfolio-item.tf {
+    .profile-list .title {
         width: 100%;
     }
     
-    a.box-hover.mt-30 {}
+    .profile-list .cont {
+        width: 100%;
+        margin: 0;
+        font-size: 13px;
+    }
  }
+ 
+  
