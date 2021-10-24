@@ -330,7 +330,7 @@ span {
         margin: 20px 0;
     }
     
-    .social_icon.mysocl ul li {width: 15%;margin-bottom: 20px;}
+    .social_icon.mysocl ul li {width:30%;margin-bottom: 20px;}
     
     .myskilltitle {
         margin-top: 30px;
@@ -339,12 +339,62 @@ span {
     .col-lg-4.col-sm-4.portfolio-item.tf {
         width: 100%;
     }
+    .about_details { 
+        padding: 20px 20px;
+         
+    }
+
+    .about_details.box_shadow {
+        padding: 15px;
+    }
     
-    a.box-hover.mt-30 {}
+    .profile-list .title {
+        width: 100%;
+    }
+    
+    .profile-list .cont {
+        width: 100%;
+        margin: 0;
+        font-size: 13px;
+    }
+    .social_icon.mysocl ul li {
+        width: 30%;
+    }
+    
+    .row {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+    
+    .myskilltitle {
+        margin-top: 10px;
+    }
+    
+    .myskilltitle h2 {
+        font-size: 20px;
+    }
+    
+    .section-title h2 {
+        font-size: 23px;
+        text-align: center;
+    }
+    
+    .section-title h2 img {
+        display: none;
+    }
+    
+    .col-lg-4.col-sm-4.portfolio-item.wp.box_shadow_two {
+        width: 100%;
+    }
  }
  
- /* Extra small devices (portrait phones, less than 576px) */
- @media (max-width: 575.98px) {}
+ 
  
  /*  */
  @media (min-width: 320px) and (max-width: 575.98px) {
